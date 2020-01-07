@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    
-    <main-tab-tar/>
+    <router-view/>
+    <main-tab-bar/>
   </div>
 </template>
 
